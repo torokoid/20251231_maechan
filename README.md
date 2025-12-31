@@ -218,7 +218,7 @@ p.note { display: none; }
 <h2><span class="yellow">メーチャンの街の山が霞んでました</span></h2>
 <a href="20251231_022.JPG" target="_blank"><img src="20251231_022.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">途中で酔った鉢植え屋さんのお花達</span></h2>
+<h2><span class="yellow">途中で寄った鉢植え屋さんのお花達</span></h2>
 <a href="20251231_023.JPG" target="_blank"><img src="20251231_023.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251231_024.JPG" target="_blank"><img src="20251231_024.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251231_025.JPG" target="_blank"><img src="20251231_025.JPG" alt="サンプル画像" class="responsive-media"></a>
