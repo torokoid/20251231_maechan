@@ -335,6 +335,19 @@ p.note { display: none; }
 <a href="20251231_088.JPG" target="_blank"><img src="20251231_088.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251231_089.JPG" target="_blank"><img src="20251231_089.JPG" alt="サンプル画像" class="responsive-media"></a>
 
+<h2><span class="yellow">動画も撮れてます</span></h2>
+<div class="youtube-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4-_pD4bQGB0?si=o-ULj2kj1SZutP1n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+<div class="youtube-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rYvXpzShXgI?si=0PzXFu5KBDkLpqqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+<div class="youtube-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nC-BMJ79kYA?si=YNQKYM5EyqKKgMk-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
 <h2><span class="yellow">夕方から始まったパーティーは、日付が変わるまで続いてました</span></h2>
 <a href="20251231_090.JPG" target="_blank"><img src="20251231_090.JPG" alt="サンプル画像" class="responsive-media"></a>
 
